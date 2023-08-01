@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar.navbar-expand-lg.bg-dark{
+  background-color: #14837f  !important;
+
+}
+footer{
+  background-color:#14837f ;
+  text-align: center;
+  padding: 25px 0;
+  color: #fff;
+  font-family: Helvetica, Arial,  sans-serif;
+  top:10px;
+
+}
